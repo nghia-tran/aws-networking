@@ -4,7 +4,7 @@ To show high level design of AWS Networking
 
 ## Detail
 
-### 1. VPC peering  
+### VPC peering  
 
 - No overlapping CIDR blocks 
 - No transitive peering
@@ -12,6 +12,12 @@ To show high level design of AWS Networking
 - 50 peering connections per VPC
 
 ![](images/1.png)
+
+
+### Virtual Private Cloud (VPC) Concepts  
+
+![](images/2.png)
+
 
 ## References 
 
